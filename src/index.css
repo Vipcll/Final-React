@@ -1,0 +1,75 @@
+#root{
+  background-color: #444444;
+}
+.btn-secondary {
+
+  background-color: #4caf50;
+}
+body {
+  margin: 0;
+  background-color: #444444;
+}
+
+.boxProductos
+{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.Card{
+  margin-top: 50px;
+  margin-bottom:10px; 
+  background-color: rgba(88, 88, 88, 0.438);
+  margin-right: 50px;
+}
+
+.container-contador{
+  display: flex;
+  flex-direction: row;}
+
+.contador-conteiner{
+display: inline-block
+}
+
+/*botones*/
+.cart-button{
+  background: transparent;
+}
+
+
+.boton-contador{
+  background-color: rgba(128, 128, 128, 0.514);
+  color: aliceblue;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom:5px;
+}
+
+
+.boton-detalle{
+  margin-left: 5px; ;
+  margin-right:5px ;
+}
+
+
+/*CONTENEDOR DETALLES*/
+.conteiner-detail{
+  display: grid;
+  grid-template-rows: auto;
+}
+
+.img-detail{
+  height: 50px;
+  width: 50px;
+}
+
+.detail{
+font-size: smaller;
+padding: 15px 15px 15px 15px;
+}
+
+.img-detail{
+  height: 600px;
+  width: 600px ;
+}
+
