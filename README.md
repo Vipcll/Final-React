@@ -9,7 +9,7 @@ Primero debes descargar el archivo comprimido _zip_ desde el botón verde "code"
 
 ### Pre-requisitos 📋
 
-Necesitas tener previamente descargado e instalado [NodeJs](https://nodejs.org/), firebase(https://firebase.google.com/docs/firestore), Bootstrap(https://getbootstrap.com).
+Necesitas tener previamente descargado e instalado [NodeJs](https://nodejs.org/), [firebase](https://firebase.google.com/docs/firestore), [Bootstrap](https://getbootstrap.com).
 
 ### Instalación 🔧
 
